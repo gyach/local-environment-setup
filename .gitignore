@@ -1,0 +1,7 @@
+_.dev.localhost.cert.pem
+_.dev.localhost.csr
+_.dev.localhost.key.pem
+localhost.root.cert.pem
+localhost.root.cert.srl
+localhost.root.key.pem
+openssl.ss.cnf
